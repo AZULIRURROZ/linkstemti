@@ -1,0 +1,209 @@
+
+  .theme0
+    {  
+  --color00: rgb(33, 18, 18);  /* Color fondo */
+  
+  --color01: rgb(55, 30, 30);  /* Color más oscuro contenedores */
+  --color02: rgb(60, 35, 35);  /* Color claro contenedores */
+  --color02o: rgb(70, 40, 40);  /* Color claro contenedores (encimado */
+
+  --color03: rgb(38, 27, 27);  /* Color del fondo cabecera */
+  --color03t: rgba(38, 27, 27,0.85);  /* Color del fondo cabecera con transparencia */
+  --color04: rgb(148, 65, 65); /* Color borde de la cabecera */
+  
+  --color05: rgb(255, 247, 247);  /* Color de texto por defecto */
+  --color06: rgb(255, 200, 200); /* Color de texto destacado */
+
+  --color07: rgb(255, 140, 140);  /* Color enlaces */
+  --color07b: rgb(255, 140, 140);  /* Color botones */
+  
+    }
+
+  .theme1
+    {  
+
+  --color00: rgb(33, 18, 26);  /* Color fondo */
+  
+  --color01: rgb(55, 30, 42);  /* Color más oscuro contenedores */
+  --color02: rgb(60, 35, 47);  /* Color claro contenedores */
+  --color02o: rgb(70, 40, 55);  /* Color claro contenedores (encimado */
+
+  --color03: rgb(38, 27, 33);  /* Color del fondo cabecera */
+  --color03t: rgba(38, 27, 33,0.85);  /* Color del fondo cabecera con transparencia */
+  --color04: rgb(148, 65, 111); /* Color borde de la cabecera */
+  
+  --color05: rgb(255, 247, 251);  /* Color de texto por defecto */
+  --color06: rgb(255, 200, 228); /* Color de texto destacado */
+
+  --color07: rgb(255, 140, 196);  /* Color enlaces */
+  --color07b: rgb(255, 140, 196);  /* Color botones */
+
+    }
+
+  .theme2
+    {  
+
+  --color00: rgb(32, 18, 33);  /* Color fondo */
+  
+  --color01: rgb(55, 30, 53);  /* Color más oscuro contenedores */
+  --color02: rgb(60, 35, 59);  /* Color claro contenedores */
+  --color02o: rgb(70, 40, 70);  /* Color claro contenedores (encimado */
+
+  --color03: rgb(37, 27, 38);  /* Color del fondo cabecera */
+  --color03t: rgba(37, 27, 38,0.85);  /* Color del fondo cabecera con transparencia */
+  --color04: rgb(138, 65, 148); /* Color borde de la cabecera */
+  
+  --color05: rgb(254, 247, 255);  /* Color de texto por defecto */
+  --color06: rgb(247, 200, 255); /* Color de texto destacado */
+
+  --color07: rgb(238, 140, 255);  /* Color enlaces */
+  --color07b: rgb(238, 140, 255);  /* Color botones */
+
+    }
+
+  .theme3
+    {  
+
+  --color00: rgb(26, 18, 33);  /* Color fondo */
+  
+  --color01: rgb(41, 30, 55);  /* Color más oscuro contenedores */
+  --color02: rgb(46, 35, 60);  /* Color claro contenedores */
+  --color02o: rgb(53, 40, 70);  /* Color claro contenedores (encimado */
+
+  --color03: rgb(32, 27, 38);  /* Color del fondo cabecera */
+  --color03t: rgba(32, 27, 38,0.85);  /* Color del fondo cabecera con transparencia */
+  --color04: rgb(102, 65, 148); /* Color borde de la cabecera */
+  
+  --color05: rgb(250, 247, 255);  /* Color de texto por defecto */
+  --color06: rgb(220, 200, 255); /* Color de texto destacado */
+
+  --color07: rgb(238, 140, 255);  /* Color enlaces */
+  --color07b: rgb(238, 140, 255);  /* Color botones */
+
+    }
+
+  .theme4
+    {  
+
+  --color00: rgb(18, 33, 18);  /* Color fondo */
+  
+  --color01: rgb(30, 55, 30);  /* Color más oscuro contenedores */
+  --color02: rgb(35, 60, 35);  /* Color claro contenedores */
+  --color02o: rgb(40, 70, 48);  /* Color claro contenedores (encimado */
+
+  --color03: rgb(27, 38, 30);  /* Color del fondo cabecera */
+  --color03t: rgba(27, 38, 30,0.85);  /* Color del fondo cabecera con transparencia */
+  --color04: rgb(65, 148, 71); /* Color borde de la cabecera */
+  
+  --color05: rgb(247, 255, 247);  /* Color de texto por defecto */
+  --color06: rgb(205, 255, 200); /* Color de texto destacado */
+
+  --color07: rgb(152, 255, 140);  /* Color enlaces */
+  --color07b: rgb(152, 255, 140);  /* Color botones */
+
+    }
+
+  .theme5
+    {  
+
+  --color00: rgb(30, 33, 18);  /* Color fondo */
+  
+  --color01: rgb(50, 55, 30);  /* Color más oscuro contenedores */
+  --color02: rgb(54, 60, 35);  /* Color claro contenedores */
+  --color02o: rgb(64, 70, 40);  /* Color claro contenedores (encimado */
+
+  --color03: rgb(36, 38, 27);  /* Color del fondo cabecera */
+  --color03t: rgba(36, 38, 27,0.85);  /* Color del fondo cabecera con transparencia */
+  --color04: rgb(131, 148, 65); /* Color borde de la cabecera */
+  
+  --color05: rgb(253, 255, 247);  /* Color de texto por defecto */
+  --color06: rgb(243, 255, 200); /* Color de texto destacado */
+
+  --color07: rgb(238, 255, 140);  /* Color enlaces */
+  --color07b: rgb(238, 255, 140);  /* Color botones */
+
+    }
+
+  .theme6
+    {  
+
+  --color00: rgb(33, 33, 18);  /* Color fondo */
+  
+  --color01: rgb(55, 52, 30);  /* Color más oscuro contenedores */
+  --color02: rgb(60, 57, 35);  /* Color claro contenedores */
+  --color02o: rgb(70, 66, 40);  /* Color claro contenedores (encimado */
+
+  --color03: rgb(38, 37, 27);  /* Color del fondo cabecera */
+  --color03t: rgba(38, 37, 27,0.85);  /* Color del fondo cabecera con transparencia */
+  --color04: rgb(148, 140, 65); /* Color borde de la cabecera */
+  
+  --color05: rgb(255, 254, 247);  /* Color de texto por defecto */
+  --color06: rgb(255, 249, 200); /* Color de texto destacado */
+
+  --color07: rgb(255, 236, 140);  /* Color enlaces */
+  --color07b: rgb(255, 236, 140);  /* Color botones */
+
+    }
+
+  .theme7
+    {  
+
+  --color00: rgb(33, 24, 18);  /* Color fondo */
+  
+  --color01: rgb(55, 44, 30);  /* Color más oscuro contenedores */
+  --color02: rgb(60, 49, 35);  /* Color claro contenedores */
+  --color02o: rgb(70, 57, 40);  /* Color claro contenedores (encimado */
+
+  --color03: rgb(38, 33, 27);  /* Color del fondo cabecera */
+  --color03t: rgba(38, 33, 27,0.85);  /* Color del fondo cabecera con transparencia */
+  --color04: rgb(148, 108, 65); /* Color borde de la cabecera */
+  
+  --color05: rgb(255, 251, 247);  /* Color de texto por defecto */
+  --color06: rgb(255, 227, 200); /* Color de texto destacado */
+
+  --color07: rgb(255, 164, 89);  /* Color enlaces */
+  --color07b: rgb(255, 164, 89);  /* Color botones */
+
+    }
+
+  .theme8
+    {  
+
+  --color00: rgb(34, 34, 34);  /* Color fondo */
+  
+  --color01: rgb(54, 54, 54);  /* Color más oscuro contenedores */
+  --color02: rgb(61, 61, 61);  /* Color claro contenedores */
+  --color02o: rgb(65, 65, 65);  /* Color claro contenedores (encimado */
+
+  --color03: rgb(36, 36, 36);  /* Color del fondo cabecera */
+  --color03t: rgba(36, 36, 36,0.85);  /* Color del fondo cabecera con transparencia */
+  --color04: rgb(143, 143, 143); /* Color borde de la cabecera */
+  
+  --color05: rgb(247, 247, 247);  /* Color de texto por defecto */
+  --color06: rgb(217, 217, 217); /* Color de texto destacado */
+
+  --color07: rgb(171, 171, 171);  /* Color enlaces */
+  --color07b: rgb(171, 171, 171);  /* Color botones */
+
+    }
+
+  .theme9
+    {  
+
+  --color00: rgb(162, 162, 162);  /* Color fondo */
+  
+  --color01: rgb(234, 234, 234);  /* Color más oscuro contenedores */
+  --color02: rgb(219, 219, 219);  /* Color claro contenedores */
+  --color02o: rgb(208, 208, 208);  /* Color claro contenedores (encimado */
+
+  --color03: rgb(36, 36, 36);  /* Color del fondo cabecera */
+  --color03t: rgba(36, 36, 36,0.85);  /* Color del fondo cabecera con transparencia */
+  --color04: rgb(143, 143, 143); /* Color borde de la cabecera */
+  
+  --color05: rgb(36, 36, 36);  /* Color de texto por defecto */
+  --color06: rgb(0, 0 ,0); /* Color de texto destacado */
+
+  --color07: rgb(97, 97, 97);  /* Color enlaces */
+  --color07b: rgb(200, 200, 200);  /* Color botones */
+
+    }
